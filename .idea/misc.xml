@@ -7,6 +7,16 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/first_scala/pom.xml" />
+        <option value="$PROJECT_DIR$/data_type/pom.xml" />
+        <option value="$PROJECT_DIR$/operator/pom.xml" />
+        <option value="$PROJECT_DIR$/control/pom.xml" />
+        <option value="$PROJECT_DIR$/functional/pom.xml" />
+        <option value="$PROJECT_DIR$/toobject/pom.xml" />
+        <option value="$PROJECT_DIR$/aggregate/pom.xml" />
+        <option value="$PROJECT_DIR$/match/pom.xml" />
+        <option value="$PROJECT_DIR$/abnormal/pom.xml" />
+        <option value="$PROJECT_DIR$/implicit/pom.xml" />
+        <option value="$PROJECT_DIR$/generic/pom.xml" />
       </list>
     </option>
   </component>

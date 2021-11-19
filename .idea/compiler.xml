@@ -6,11 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="abnormal" />
         <module name="first_scala" />
+        <module name="functional" />
+        <module name="control" />
+        <module name="implicit" />
+        <module name="operator" />
+        <module name="aggregate" />
+        <module name="data_type" />
+        <module name="match" />
+        <module name="toobject" />
+        <module name="generic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="first_scala" target="1.5" />
+      <module name="abnormal" target="1.5" />
+      <module name="aggregate" target="1.5" />
+      <module name="control" target="1.5" />
+      <module name="data_type" target="8" />
+      <module name="first_scala" target="8" />
+      <module name="functional" target="1.5" />
+      <module name="generic" target="1.5" />
+      <module name="implicit" target="1.5" />
+      <module name="match" target="1.5" />
+      <module name="operator" target="1.5" />
+      <module name="toobject" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

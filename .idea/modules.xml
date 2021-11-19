@@ -3,7 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Scala.iml" filepath="$PROJECT_DIR$/.idea/Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abnormal/abnormal.iml" filepath="$PROJECT_DIR$/abnormal/abnormal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aggregate/aggregate.iml" filepath="$PROJECT_DIR$/aggregate/aggregate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/control.iml" filepath="$PROJECT_DIR$/control/control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_type/data_type.iml" filepath="$PROJECT_DIR$/data_type/data_type.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_scala/first_scala.iml" filepath="$PROJECT_DIR$/first_scala/first_scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional/functional.iml" filepath="$PROJECT_DIR$/functional/functional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/implicit/implicit.iml" filepath="$PROJECT_DIR$/implicit/implicit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/match/match.iml" filepath="$PROJECT_DIR$/match/match.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operator/operator.iml" filepath="$PROJECT_DIR$/operator/operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toobject/toobject.iml" filepath="$PROJECT_DIR$/toobject/toobject.iml" />
     </modules>
   </component>
 </project>
