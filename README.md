@@ -9,6 +9,9 @@ Scala语言
 
 # [Scala 入门](first_scala)
 
+- [x] [第一个程序面向hello](first_scala/src/main/scala/com/cpucode/first/scala/HelloWorld.scala)
+- [ ] []()
+
 
 ----------------------
 
