@@ -10,8 +10,8 @@ Scala语言
 # [Scala 入门](first_scala)
 
 - [x] [第一个程序面向hello](first_scala/src/main/scala/com/cpucode/first/scala/HelloWorld.scala)
-- [ ] []()
-
+- [x] [Java 学生类](first_scala/src/main/java/com/cpucode/student/Student.java)
+- [x] [Scala 学生类](first_scala/src/main/scala/com/cpucode/student/Student.scala)
 
 ----------------------
 
