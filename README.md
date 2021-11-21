@@ -21,6 +21,7 @@ Scala语言
 - [x] [变量说明](data_type/src/main/scala/com/cpucode/variable/Variable.scala)
 - [x] [标识符说明](data_type/src/main/scala/com/cpucode/identifier/Identifier.scala)
 - [x] [字符串输出](data_type/src/main/scala/com/cpucode/string/StringTest.scala)
+- [x] [键盘输入](data_type/src/main/scala/com/cpucode/stdin/StdInTest.scala)
 
 ----------------------
 
