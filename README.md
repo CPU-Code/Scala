@@ -18,6 +18,7 @@ Scala语言
 # [变量和数据类型](data_type)
 
 - [x] [注释说明](data_type/src/main/scala/com/cpucode/comment/Comment.scala)
+- [x] [变量说明](data_type/src/main/scala/com/cpucode/variable/Variable.scala)
 
 
 ----------------------
