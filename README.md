@@ -40,6 +40,7 @@ Scala语言
 - [x] [算术运算符](operator/src/main/scala/com/cpucode/arith/Arith.scala)
 - [x] [Java比较运算符](operator/src/main/java/com/cpucode/compare/Compare.java)
 - [x] [Scala比较运算符](operator/src/main/scala/com/cpucode/compare/CompareTest.scala)
+- [x] [逻辑运算符](operator/src/main/scala/com/cpucode/logic/Logic.scala)
 
 ----------------------
 
