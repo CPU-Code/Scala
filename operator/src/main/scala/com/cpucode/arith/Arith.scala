@@ -16,6 +16,8 @@ object Arith {
     println(result1)
     println(result2)
     println(result3)
+    // 含义：保留小数点 2位，使用四舍五入
+    println("result3 = " + result3.formatted("%.2f"))
 
     val result4: Int = 10 % 3
     println(result4)
