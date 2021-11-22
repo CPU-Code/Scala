@@ -38,6 +38,16 @@ object DataType {
 
     println(b4)
 
+
+    //浮点类型
+    val f1: Float = 12.3456f
+    val d1 = 23.4567
+
+    println(f1)
+    println(d1)
+
+
+
   }
 
 }
