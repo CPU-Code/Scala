@@ -30,6 +30,7 @@ Scala语言
 - [x] [空类型](data_type/src/main/scala/com/cpucode/dataType/unitTest/UnitTest.scala)
 - [x] [Java数据类型转换](data_type/src/main/java/com/cpucode/data/conversion/TypeConversion.java)
 - [x] [Scala数据类型转换](data_type/src/main/scala/com/cpucode/conversion/TypeConversion.scala)
+- [x] [数据类型强转换](data_type/src/main/scala/com/cpucode/forceConversion/ForceConversion.scala)
 
 ----------------------
 
