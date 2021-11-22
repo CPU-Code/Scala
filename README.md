@@ -24,8 +24,8 @@ Scala语言
 - [x] [键盘输入](data_type/src/main/scala/com/cpucode/stdin/StdInTest.scala)
 - [x] [文件读取](data_type/src/main/scala/com/cpucode/file/io/FileIO.scala)
 - [x] [整数类型](data_type/src/main/scala/com/cpucode/dataType/intType/IntType.scala)
-- [x] [浮点类型](data_type/src/main/scala/com/cpucode/dataType/intType/IntType.scala)
-- [x] [字符类型](data_type/src/main/scala/com/cpucode/dataType/intType/IntType.scala)
+- [x] [浮点类型](data_type/src/main/scala/com/cpucode/dataType/floatType/FloatType.scala)
+- [x] [字符类型](data_type/src/main/scala/com/cpucode/dataType/charType/CharType.scala)
 
 ----------------------
 
