@@ -28,6 +28,7 @@ Scala语言
 - [x] [字符类型](data_type/src/main/scala/com/cpucode/dataType/charType/CharType.scala)
 - [x] [布尔类型](data_type/src/main/scala/com/cpucode/dataType/boolType/BoolType.scala)
 - [x] [空类型](data_type/src/main/scala/com/cpucode/dataType/unitTest/UnitTest.scala)
+- [x] [Java数据类型转换](data_type/src/main/java/com/cpucode/data/conversion/TypeConversion.java)
 
 ----------------------
 
