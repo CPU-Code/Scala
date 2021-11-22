@@ -37,6 +37,7 @@ Scala语言
 
 # [运算符](operator)
 
+- [x] [算术运算符](operator/src/main/scala/com/cpucode/arith/Arith.scala)
 
 ----------------------
 
