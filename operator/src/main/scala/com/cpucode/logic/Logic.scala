@@ -9,6 +9,13 @@ package com.cpucode.logic
 object Logic {
   def main(args: Array[String]): Unit = {
     //逻辑运算符
+    var a = true
+    var b = false
+
+    println("a && b = " + (a && b))
+    println("a || b = " + (a || b))
+    println("!(a && b) = " + (!(a && b)))
+
     def m(n: Int): Int = {
       println("m 被调用")
       return n
