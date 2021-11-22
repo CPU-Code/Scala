@@ -26,6 +26,7 @@ Scala语言
 - [x] [整数类型](data_type/src/main/scala/com/cpucode/dataType/intType/IntType.scala)
 - [x] [浮点类型](data_type/src/main/scala/com/cpucode/dataType/floatType/FloatType.scala)
 - [x] [字符类型](data_type/src/main/scala/com/cpucode/dataType/charType/CharType.scala)
+- [x] [布尔类型](data_type/src/main/scala/com/cpucode/dataType/boolType/BoolType.scala)
 
 ----------------------
 
