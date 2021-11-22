@@ -31,6 +31,7 @@ Scala语言
 - [x] [Java数据类型转换](data_type/src/main/java/com/cpucode/data/conversion/TypeConversion.java)
 - [x] [Scala数据类型转换](data_type/src/main/scala/com/cpucode/conversion/TypeConversion.scala)
 - [x] [数据类型强转换](data_type/src/main/scala/com/cpucode/forceConversion/ForceConversion.scala)
+- [x] [数据类型转换问题](data_type/src/main/scala/com/cpucode/problem/Conversion/ProblemCon.scala)
 
 ----------------------
 
