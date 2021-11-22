@@ -23,7 +23,9 @@ Scala语言
 - [x] [字符串输出](data_type/src/main/scala/com/cpucode/string/StringTest.scala)
 - [x] [键盘输入](data_type/src/main/scala/com/cpucode/stdin/StdInTest.scala)
 - [x] [文件读取](data_type/src/main/scala/com/cpucode/file/io/FileIO.scala)
-- [x] [数据类型](data_type/src/main/scala/com/cpucode/dataType/DataType.scala)
+- [x] [整数类型](data_type/src/main/scala/com/cpucode/dataType/intType/IntType.scala)
+- [x] [浮点类型](data_type/src/main/scala/com/cpucode/dataType/intType/IntType.scala)
+- [x] [字符类型](data_type/src/main/scala/com/cpucode/dataType/intType/IntType.scala)
 
 ----------------------
 
