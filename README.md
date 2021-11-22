@@ -56,6 +56,7 @@ Scala语言
 # [函数式编程](functional)
 
 - [x] [函数和方法](functional/src/main/scala/com/cpucode/function/method/FunctionMethod.scala)
+- [x] [函数定义形式](functional/src/main/scala/com/cpucode/functionDefine/FunctionDefine.scala)
 
 ----------------
 
