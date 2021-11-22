@@ -61,6 +61,7 @@ Scala语言
 - [x] [函数至简原则](functional/src/main/scala/com/cpucode/simplify/Simplify.scala)
 - [x] [Lambda](functional/src/main/scala/com/cpucode/lambad/Lambda.scala)
 - [x] [匿名函数](functional/src/main/scala/com/cpucode/anonymous/anonymous.scala)
+- [x] [高级函数](functional/src/main/scala/com/cpucode/high/order/function/HighOrderFunction.scala)
 
 ----------------
 
