@@ -44,6 +44,7 @@ Scala语言
 - [x] [赋值运算符](operator/src/main/scala/com/cpucode/assignment/Assignment.scala)
 - [x] [Java赋值运算符](operator/src/main/java/com/cpucode/assignment/AssignmentJava.java)
 - [x] [位运算符](operator/src/main/scala/com/cpucode/position/Position.scala)
+- [x] [运算符的本质](operator/src/main/scala/com/cpucode/position2/Position2.scala)
 
 ----------------------
 
