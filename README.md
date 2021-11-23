@@ -80,7 +80,7 @@ Scala语言
 # [面向对象](toobject)
 
 - [x] [包说明](toobject/src/main/scala/com/cpucode/pack/age/PackAge.scala)
-
+- [x] [包对象](toobject/src/main/scala/com/cpucode/packAgeObject/PackageObject.scala)
 
 ----------------
 
