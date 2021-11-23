@@ -87,6 +87,7 @@ Scala语言
 - [x] [构造器参数](toobject/src/main/scala/com/cpucode/construcParams/ConstructorParams.scala)
 - [x] [继承](toobject/src/main/scala/com/cpucode/inherit/Inherit.scala)
 - [x] [动态绑定](toobject/src/main/scala/com/cpucode/dynamic/bind/DynamicBind.scala)
+- [x] [抽象类](toobject/src/main/scala/com/cpucode/abstractClass/AbstractClass.scala)
 
 ----------------
 
