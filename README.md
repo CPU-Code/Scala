@@ -67,6 +67,7 @@ Scala语言
 - [x] [Array匿名操作](functional/src/main/scala/com/cpucode/collection/opeartion/ColleOpeartion.scala)
 - [x] [两个参数匿名操作](functional/src/main/scala/com/cpucode/two/parameter/TwoParameter.scala)
 - [x] [匿名函数练习](functional/src/main/scala/com/cpucode/two/parameter/TwoParameter.scala)
+- [x] [高阶函数案例](functional/src/main/scala/com/cpucode/high/orderCase/HighCase.scala)
 - [x] [闭包](functional/src/main/scala/com/cpucode/closure/currying/ClosureCurrying.scala)
 
 ----------------
