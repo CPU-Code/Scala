@@ -6,7 +6,7 @@ package com.cpucode.annoymousClass
  * @github : https://github.com/CPU-Code
  * @csdn : https://blog.csdn.net/qq_44226094
  */
-object AnnoymousClass {
+object AnonymousClass {
   def main(args: Array[String]): Unit = {
     val person: Person10 = new Person10 {
       override var name: String = "cpuCode"
