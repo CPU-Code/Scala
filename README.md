@@ -66,6 +66,7 @@ Scala语言
 - [x] [函数作为函数](functional/src/main/scala/com/cpucode/fun/funcation/FunFunction.scala)
 - [x] [Array匿名操作](functional/src/main/scala/com/cpucode/collection/opeartion/ColleOpeartion.scala)
 - [x] [两个参数匿名操作](functional/src/main/scala/com/cpucode/two/parameter/TwoParameter.scala)
+- [x] [匿名函数练习](functional/src/main/scala/com/cpucode/two/parameter/TwoParameter.scala)
 
 ----------------
 
