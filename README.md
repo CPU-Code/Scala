@@ -83,6 +83,7 @@ Scala语言
 - [x] [包对象](toobject/src/main/scala/com/cpucode/packAgeObject/PackageObject.scala)
 - [x] [定义类](toobject/src/main/scala/com/cpucode/classTest/ClassTest.scala)
 - [x] [访问权限](toobject/src/main/scala/com/cpucode/classTest/ClassTest.scala)
+- [x] [构造器](toobject/src/main/scala/com/cpucode/constructor/Constructor.scala)
 
 ----------------
 
