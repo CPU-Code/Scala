@@ -73,6 +73,7 @@ Scala语言
 - [x] [Scala递归](functional/src/main/scala/com/cpucode/recursion/Recursion.scala)
 - [x] [控制抽象](functional/src/main/scala/com/cpucode/control/abstraction/ControlAbs.scala)
 - [x] [while实现](functional/src/main/scala/com/cpucode/mywhile/MyWhile.scala)
+- [x] [惰性加载](functional/src/main/scala/com/cpucode/lazyTest/LazyTest.scala)
 
 ----------------
 
