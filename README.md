@@ -64,6 +64,7 @@ Scala语言
 - [x] [高级函数](functional/src/main/scala/com/cpucode/high/order/function/HighOrderFunction.scala)
 - [x] [函数作为参数](functional/src/main/scala/com/cpucode/paraFunction/ParaFunction.scala)
 - [x] [函数作为函数](functional/src/main/scala/com/cpucode/fun/funcation/FunFunction.scala)
+- [x] [Array匿名操作](functional/src/main/scala/com/cpucode/collection/opeartion/ColleOpeartion.scala)
 
 ----------------
 
