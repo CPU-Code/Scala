@@ -71,6 +71,7 @@ Scala语言
 - [x] [闭包](functional/src/main/scala/com/cpucode/closure/currying/ClosureCurrying.scala)
 - [x] [Java递归](functional/src/main/java/com/cpucode/recursion/RecursionTest.java)
 - [x] [Scala递归](functional/src/main/scala/com/cpucode/recursion/Recursion.scala)
+- [x] [控制抽象](functional/src/main/scala/com/cpucode/control/abstraction/ControlAbs.scala)
 
 ----------------
 
