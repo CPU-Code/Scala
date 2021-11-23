@@ -85,6 +85,7 @@ Scala语言
 - [x] [访问权限](toobject/src/main/scala/com/cpucode/classTest/ClassTest.scala)
 - [x] [构造器](toobject/src/main/scala/com/cpucode/constructor/Constructor.scala)
 - [x] [构造器参数](toobject/src/main/scala/com/cpucode/construcParams/ConstructorParams.scala)
+- [x] [继承](toobject/src/main/scala/com/cpucode/inherit/Inherit.scala)
 
 ----------------
 
