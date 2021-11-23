@@ -69,6 +69,8 @@ Scala语言
 - [x] [匿名函数练习](functional/src/main/scala/com/cpucode/two/parameter/TwoParameter.scala)
 - [x] [高阶函数案例](functional/src/main/scala/com/cpucode/high/orderCase/HighCase.scala)
 - [x] [闭包](functional/src/main/scala/com/cpucode/closure/currying/ClosureCurrying.scala)
+- [x] [Java递归](functional/src/main/java/com/cpucode/recursion/RecursionTest.java)
+- [x] [Scala递归](functional/src/main/scala/com/cpucode/recursion/Recursion.scala)
 
 ----------------
 
