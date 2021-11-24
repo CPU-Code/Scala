@@ -92,6 +92,7 @@ Scala语言
 - [x] [apply方法](toobject/src/main/scala/com/cpucode/objectTest/ObjectTest.scala)
 - [x] [懒汉式](toobject/src/main/scala/com/cpucode/singleton/Singleton.scala)
 - [x] [特质](toobject/src/main/scala/com/cpucode/traitTest/TraitTest.scala)
+- [x] [动态混入](toobject/src/main/scala/com/cpucode/traitMixin/TraitMixin.scala)
  
 ----------------
 
