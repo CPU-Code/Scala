@@ -101,6 +101,7 @@ Scala语言
 
 # [集合](aggregate)
 
+- [x] [不可变数组](aggregate/src/main/scala/com/cpucode/immutableArray/ImmutableArray.scala)
 
 ----------------
 
