@@ -1,8 +1,6 @@
 # Scala
 
-Scala语言
-
-
+Scala语言 , 大数据语言的扛把子
 
 
 ----------------------
@@ -102,6 +100,7 @@ Scala语言
 # [集合](aggregate)
 
 - [x] [不可变数组](aggregate/src/main/scala/com/cpucode/immutableArray/ImmutableArray.scala)
+- [x] [可变数组](aggregate/src/main/scala/com/cpucode/arrayBuffer/ArrayBufferTest.scala)
 
 ----------------
 
