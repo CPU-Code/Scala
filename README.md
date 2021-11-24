@@ -93,7 +93,8 @@ Scala语言
 - [x] [懒汉式](toobject/src/main/scala/com/cpucode/singleton/Singleton.scala)
 - [x] [特质](toobject/src/main/scala/com/cpucode/traitTest/TraitTest.scala)
 - [x] [动态混入](toobject/src/main/scala/com/cpucode/traitMixin/TraitMixin.scala)
- 
+- [x] [钻石问题](toobject/src/main/scala/com/cpucode/traitOverlying/TraitOverlying.scala)
+
 ----------------
 
 # [集合](aggregate)
