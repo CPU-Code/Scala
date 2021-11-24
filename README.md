@@ -89,7 +89,8 @@ Scala语言
 - [x] [动态绑定](toobject/src/main/scala/com/cpucode/dynamic/bind/DynamicBind.scala)
 - [x] [抽象类](toobject/src/main/scala/com/cpucode/abstractClass/AbstractClass.scala)
 - [x] [匿名子类](toobject/src/main/scala/com/cpucode/annoymousClass/AnonymousClass.scala)
-- [x] [单例对象](toobject/src/main/scala/com/cpucode/objectTest/ObjectTest.scala)
+- [x] [apply方法](toobject/src/main/scala/com/cpucode/objectTest/ObjectTest.scala)
+- [x] [懒汉式](toobject/src/main/scala/com/cpucode/singleton/Singleton.scala)
  
 ----------------
 
