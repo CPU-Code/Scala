@@ -95,6 +95,7 @@ Scala语言
 - [x] [动态混入](toobject/src/main/scala/com/cpucode/traitMixin/TraitMixin.scala)
 - [x] [钻石问题](toobject/src/main/scala/com/cpucode/traitOverlying/TraitOverlying.scala)
 - [x] [特质自身类型](toobject/src/main/scala/com/cpucode/traitSelfType/TraitSelfType.scala)
+- [x] [类型检查和转换](toobject/src/main/scala/com/cpucode/extendsTest/ExtendsTest.scala)
 
 ----------------
 
