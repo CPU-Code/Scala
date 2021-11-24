@@ -35,11 +35,13 @@ object ExtendsTest {
 
     // 类型转换
     if (person.isInstanceOf[Student17]){
+      // 将对象转换为某个类型的实例
       val newStudent = person.asInstanceOf[Student17]
       newStudent.study()
     }
     println("*********************************************")
 
+    // 获取类的信息
     println(classOf[Student17])
 
     // 2. 测试枚举类
@@ -54,6 +56,7 @@ object ExtendsTest {
 object TestApp extends App {
   println("app start")
 
+  // Type 定义新类型
   type MyString = String
   val a: MyString = "abc"
 
