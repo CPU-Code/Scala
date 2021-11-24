@@ -91,6 +91,7 @@ Scala语言
 - [x] [匿名子类](toobject/src/main/scala/com/cpucode/annoymousClass/AnonymousClass.scala)
 - [x] [apply方法](toobject/src/main/scala/com/cpucode/objectTest/ObjectTest.scala)
 - [x] [懒汉式](toobject/src/main/scala/com/cpucode/singleton/Singleton.scala)
+- [x] [特质](toobject/src/main/scala/com/cpucode/traitTest/TraitTest.scala)
  
 ----------------
 
