@@ -107,6 +107,7 @@ Scala语言 , 大数据语言的扛把子
 - [x] [不可变Set](aggregate/src/main/scala/com/cpucode/immutableSet/ImmutableSet.scala)
 - [x] [可变Set](aggregate/src/main/scala/com/cpucode/mutableSet/MutableSet.scala)
 - [x] [不可变Map](aggregate/src/main/scala/com/cpucode/immutableMap/ImmutableMap.scala)
+- [x] [可变Map](aggregate/src/main/scala/com/cpucode/mutableMap/MutableMap.scala)
 
 ----------------
 
