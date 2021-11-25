@@ -103,6 +103,8 @@ Scala语言 , 大数据语言的扛把子
 - [x] [可变数组](aggregate/src/main/scala/com/cpucode/arrayBuffer/ArrayBufferTest.scala)
 - [x] [二维数组](aggregate/src/main/scala/com/cpucode/mulArray/MulArray.scala)
 - [x] [List](aggregate/src/main/scala/com/cpucode/listTest/ListTest.scala)
+- [x] [可变List](aggregate/src/main/scala/com/cpucode/listBuffer/ListBufferTest.scala)
+
 
 ----------------
 
