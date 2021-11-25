@@ -105,6 +105,7 @@ Scala语言 , 大数据语言的扛把子
 - [x] [List](aggregate/src/main/scala/com/cpucode/listTest/ListTest.scala)
 - [x] [可变List](aggregate/src/main/scala/com/cpucode/listBuffer/ListBufferTest.scala)
 - [x] [不可变Set](aggregate/src/main/scala/com/cpucode/immutableSet/ImmutableSet.scala)
+- [x] [可变Set](aggregate/src/main/scala/com/cpucode/mutableSet/MutableSet.scala)
 
 ----------------
 
