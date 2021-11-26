@@ -113,6 +113,7 @@ Scala语言 , 大数据语言的扛把子
 - [x] [衍生集合](aggregate/src/main/scala/com/cpucode/derivedCollection/DerivedCollection.scala)
 - [x] [集合计算简单函数](aggregate/src/main/scala/com/cpucode/simpleFunction/SimpleFunction.scala)
 - [x] [Map转换](aggregate/src/main/scala/com/cpucode/highMap/HighMap.scala)
+- [x] [Reduce转换](aggregate/src/main/scala/com/cpucode/highReduce/HighReduce.scala)
 
 ----------------
 
