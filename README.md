@@ -110,6 +110,7 @@ Scala语言 , 大数据语言的扛把子
 - [x] [可变Map](aggregate/src/main/scala/com/cpucode/mutableMap/MutableMap.scala)
 - [x] [元组](aggregate/src/main/scala/com/cpucode/tupleTest/TupleTest.scala)
 - [x] [基本属性和常用操作](aggregate/src/main/scala/com/cpucode/commonOp/CommonOp.scala)
+- [x] [衍生集合](aggregate/src/main/scala/com/cpucode/derivedCollection/DerivedCollection.scala)
 
 ----------------
 
