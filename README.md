@@ -112,6 +112,7 @@ Scala语言 , 大数据语言的扛把子
 - [x] [基本属性和常用操作](aggregate/src/main/scala/com/cpucode/commonOp/CommonOp.scala)
 - [x] [衍生集合](aggregate/src/main/scala/com/cpucode/derivedCollection/DerivedCollection.scala)
 - [x] [集合计算简单函数](aggregate/src/main/scala/com/cpucode/simpleFunction/SimpleFunction.scala)
+- [x] [Map转换](aggregate/src/main/scala/com/cpucode/highMap/HighMap.scala)
 
 ----------------
 
