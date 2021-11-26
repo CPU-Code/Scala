@@ -118,6 +118,7 @@ Scala语言 , 大数据语言的扛把子
 - [x] [普通 WordCount 案例](aggregate/src/main/scala/com/cpucode/commonWordCount/ComWordCount.scala)
 - [x] [复杂 WordCount 案例](aggregate/src/main/scala/com/cpucode/complexWordCount/ComplexWordCount.scala)
 - [x] [队列](aggregate/src/main/scala/com/cpucode/queueTest/QueueTest.scala)
+- [x] [并行集合](aggregate/src/main/scala/com/cpucode/parallelTest/ParallelTest.scala)
 
 ----------------
 
