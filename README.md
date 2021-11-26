@@ -125,6 +125,7 @@ Scala语言 , 大数据语言的扛把子
 # [模式匹配](match)
 
 - [x] [模式守卫](match/src/main/scala/com/cpucode/patternMatch/PatternMatch.scala)
+- [x] [模式匹配类型](match/src/main/scala/com/cpucode/matchTypes/MatchTypes.scala)
 
 ----------------
 
