@@ -1,4 +1,4 @@
-package tuple
+package com.cpucode.tupleTest
 
 /**
  * @author : cpucode
