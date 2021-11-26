@@ -115,6 +115,7 @@ Scala语言 , 大数据语言的扛把子
 - [x] [Map转换](aggregate/src/main/scala/com/cpucode/highMap/HighMap.scala)
 - [x] [Reduce转换](aggregate/src/main/scala/com/cpucode/highReduce/HighReduce.scala)
 - [x] [Fold方法](aggregate/src/main/scala/com/cpucode/mergeMap/MergeMap.scala)
+- [x] [普通 WordCount 案例](aggregate/src/main/scala/com/cpucode/commonWordCount/ComWordCount.scala)
 
 ----------------
 
