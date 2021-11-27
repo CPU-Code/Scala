@@ -148,6 +148,7 @@ Scala语言 , 大数据语言的扛把子
 
 # [泛型](generic)
 
+- [x] [泛型](generic/src/main/scala/com/cpucode/genericsTest/GenericsTest.scala)
 
 ----------------
 
