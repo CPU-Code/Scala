@@ -142,6 +142,7 @@ Scala语言 , 大数据语言的扛把子
 
 # [隐式转换](implicit)
 
+- [x] [隐式转换](implicit/src/main/scala/com/cpucode/implicitTest/ImplicitTest.scala)
 
 ----------------
 
