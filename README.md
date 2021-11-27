@@ -136,6 +136,7 @@ Scala语言 , 大数据语言的扛把子
 
 # [异常](abnormal)
 
+- [x] [异常](abnormal/src/main/scala/com/cpucode/exceptionTest/ExceptionTest.scala)
 
 ----------------
 
