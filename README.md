@@ -129,6 +129,7 @@ Scala语言 , 大数据语言的扛把子
 - [x] [匹配元组](match/src/main/scala/com/cpucode/matchTupleExtend/MatchTupleExtend.scala)
 - [x] [匹配对象](match/src/main/scala/com/cpucode/matchObject/MatchObject.scala)
 - [x] [样例类](match/src/main/scala/com/cpucode/matchCaseClass/MatchCaseClass.scala)
+- [x] [偏函数](match/src/main/scala/com/cpucode/partialFunction/PartialFunction.scala)
 
 ----------------
 
